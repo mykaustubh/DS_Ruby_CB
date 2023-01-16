@@ -9,6 +9,11 @@ Please create your own branch as per your convenience and integrate Screener
 in this framework
 
 ```
+## To Download Ruby
+https://www.ruby-lang.org/en/downloads/
+https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.7-1/rubyinstaller-devkit-2.7.7-1-x64.exe
+```
+
 ## Running Tests
 To run any particular test
 ```
